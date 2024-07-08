@@ -92,4 +92,4 @@ gem 'bootswatch', github: 'thomaspark/bootswatch', tag: 'v5.2.3'
 gem 'bootstrap_form', '~> 5.2.3'
 
 # User Authentication framework
-gem 'devise'
+gem 'devise', '~> 4.9.4'
